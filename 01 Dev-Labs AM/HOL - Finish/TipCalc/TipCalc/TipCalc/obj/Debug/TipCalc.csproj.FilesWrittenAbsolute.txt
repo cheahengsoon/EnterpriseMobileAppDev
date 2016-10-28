@@ -1,0 +1,10 @@
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/obj/Debug/TipCalc.TipCalcPage.xaml
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/obj/Debug/TipCalc.TipCalcPage.xaml.g.cs
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/bin/Debug/TipCalc.dll.mdb
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/bin/Debug/TipCalc.dll
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/obj/Debug/TipCalc.dll
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/obj/Debug/TipCalc.dll.mdb
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/bin/Debug/Xamarin.Forms.Core.dll
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/mjtpena/Projects/xamarin-forms-samples/TipCalc/TipCalc/TipCalc/bin/Debug/Xamarin.Forms.Xaml.dll

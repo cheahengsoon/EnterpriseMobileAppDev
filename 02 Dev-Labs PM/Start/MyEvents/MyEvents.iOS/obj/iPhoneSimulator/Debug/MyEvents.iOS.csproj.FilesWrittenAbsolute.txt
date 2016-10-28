@@ -1,0 +1,15 @@
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/MyEventsiOS.exe.config
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/MyEventsiOS.exe.mdb
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/MyEventsiOS.exe
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/obj/iPhoneSimulator/Debug/MyEventsiOS.exe
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/obj/iPhoneSimulator/Debug/MyEventsiOS.exe.mdb
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/MyEvents.dll
+/Users/mjtpena/Projects/Dev-Days-HOL/02 Dev-Labs PM/Start/MyEvents/MyEvents.iOS/bin/iPhoneSimulator/Debug/MyEvents.dll.mdb
